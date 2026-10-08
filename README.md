@@ -1,7 +1,7 @@
 # One Dark Pro Ghostty
 One Dark Pro for Ghostty.
 
-<img src="Images/Atom.png"><br/>
+<img src="Images/Ghostty.jpg"><br/>
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
