@@ -7,6 +7,8 @@ One Dark Pro for Ghostty.
 
 * [One Dark Pro for VS Code](https://github.com/Binaryify/OneDark-Pro/)<br/>
 
+<img src="Images/OneDarkPro.jpg" width="768" height="320" /><br/>
+
 Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *One Dark Pro*
