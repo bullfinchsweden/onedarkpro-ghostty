@@ -1,4 +1,4 @@
-# One Dark Pro Ghostty
+# One Dark Pro | Ghostty
 One Dark Pro for Ghostty.
 
 <img src="Images/Ghostty.jpg"><br/>
