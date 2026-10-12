@@ -13,6 +13,4 @@ Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *One Dark Pro*
 
-<img src="Images/OneDarkProColors1.png" width="260" height="83" /><br/>
-
-<img src="Images/OneDarkProColors2.png" width="785" height="398" />
+<img src="Images/OneDarkProGhostty.png" width="764.5" height="376.5" />
